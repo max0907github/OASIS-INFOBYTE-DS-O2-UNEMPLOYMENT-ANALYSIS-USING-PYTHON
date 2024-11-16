@@ -52,7 +52,7 @@ This project analyzes unemployment trends in India using statistical methods and
 ### Average Unemployment Rate by Region
 ![output_21_1](https://github.com/user-attachments/assets/efcf3718-b244-4b02-ac5d-4625873c3d65)
 
-### Labor Participation vs. Unemployment Rate
+### Labour Participation vs. Unemployment Rate
 ![output_23_0](https://github.com/user-attachments/assets/26c15967-1f1e-4e8e-a1ea-04b4296a783d)
 
 
