@@ -60,3 +60,9 @@ This project analyzes unemployment trends in India using statistical methods and
 - Dataset Source: [Insert Dataset Source, if available]
 - This project was developed as part of the **Oasis Infobyte Internship Program**.
 
+![output_21_1](https://github.com/user-attachments/assets/efcf3718-b244-4b02-ac5d-4625873c3d65)
+![output_23_0](https://github.com/user-attachments/assets/26c15967-1f1e-4e8e-a1ea-04b4296a783d)
+![output_22_0](https://github.com/user-attachments/assets/5775b403-a0cf-4ca8-a1a0-8cceaa3f400b)
+![output_21_1](https://github.com/user-attachments/assets/056c13f8-643c-4405-ada7-15c82c190ab9)
+
+
